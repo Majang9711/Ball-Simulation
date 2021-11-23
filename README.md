@@ -1,3 +1,5 @@
 # Ball-Simulation
+It is a simulation program developed by Unity that calculates different speeds depending on the mass, angle, length, and time of the ball.
 
-Unity로 개발한 공의 질량, 경사면의 각도, 길이, 시간에 따라 다른 속도를 구하는 시뮬레이션 프로그램입니다.
+## Read more
+- https://blog.naver.com/dlmajang/222364982904
